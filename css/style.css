@@ -8,7 +8,7 @@ body {
 .container {
 	background-color: #2d799d;
 	width: 600px;
-	height: 430px;
+	height: 400px;
 	margin: 90px 350px 90px;
 	border-radius: 15px;
     padding: 10px; 
@@ -51,8 +51,6 @@ position: absolute;
 
 .form-row input {
 	float: right;
-	height: 19px;
-	line-height: 19px;
 	padding: 0px 10px;
 	width: 277px;
 	background-color: white;
@@ -65,5 +63,4 @@ width: 500px;
 margin: 0px 10px 0px;
 color: lightgreen;
 font-size: 20px;
-
 }
